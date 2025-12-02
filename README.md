@@ -18,13 +18,12 @@ Enjoy <3 !
 
 ## ⚠️ Requirements
 - [Neovim](https://neovim.io) `>= 0.9`
-- [NvChad](https://github.com/NvChad/NvChad) (required — no vanilla support yet)
 
 ---
 
-## 📦 Installation (NvChad)
+## 📦 Installation (Neovim)
 
 Clone the repo into your custom themes directory:
 
 ```bash
-git clone https://github.com/x018/furusato.nvim ~/.config/nvim/lua/themes/furusato
+git clone https://github.com/x017/furusato.nvim ~/.config/nvim/lua/colors/furusato 
